@@ -1,0 +1,106 @@
+.main-container {
+    width: 100%;
+    background: black;
+    position: relative;
+    
+
+
+.feed-wrapper {
+    position: relative;
+    height: 100%;
+    width: 100%;
+
+    color: white;
+    .content-wrapper {
+        padding-right: 3rem;
+        padding-left: 3rem;
+        margin-right: 5rem;
+        margin-left: 5rem;
+    }
+
+}
+
+.content-wrapper-divider {
+   margin-top: 10px;
+    border-top: 4px solid cadetblue;
+}
+
+.card-carousel {
+    width: 100%;
+    position: relative;
+    background-color: black;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    
+
+
+    .card-div-scroller{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    row-gap: 30px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    
+    
+   
+    
+    }
+    .card-div{
+        width: 100%;
+        padding-left: 3rem;
+        padding-right: 3rem;
+        
+        
+    }
+   
+
+
+    .card-image {
+        height: 265px;
+        width: 185px;
+        background: none;
+        object-fit: cover;
+       
+
+        
+        
+    }
+
+  
+}
+
+.card-text h4 {
+       
+    color: white;
+    padding-top: 10px;
+    font-size: 14px;
+    
+}
+
+.series-info h2 {
+    padding-top: 10px;
+    font-size: 10px;
+    
+}
+
+
+.card-wrapper{
+   width:100%;
+    height: 100%;
+    padding: .5rem 1rem;
+    cursor: pointer;
+    &:hover{
+        
+        opacity: .9;
+        transition: ease-in;
+        
+    }
+    
+   
+}
+
+
+
+}
