@@ -69,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Anime-Api
+
+Utilizing react hooks within this project, I was able to create both a responsive slideshow showing various animes and a responsive navbar as well. With an anime api, I was able to configure the most popular animes currently and as well as configure animes that are considered oldies but goodies. If anyone wants to contribute to this project, to either add something or if they have an alternative way of doing a certain thing feel free to work on it!
+
+
+<img width="1440" alt="Screenshot 2023-06-09 at 9 37 48 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/741040e8-93fd-46c0-8be2-77a0421f861f">
+
+
+<img width="1440" alt="Screenshot 2023-06-09 at 9 38 14 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/4069b860-99ca-450f-823d-6c2dc8ee04da">
+
+<img width="1440" alt="Screenshot 2023-06-09 at 9 38 22 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/0fd68cf1-ec0f-4d82-bb44-16e089da1c93">
+
+
+
+
+
+
+
+
