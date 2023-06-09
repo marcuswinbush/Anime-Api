@@ -76,7 +76,25 @@ Utilizing react hooks within this project, I was able to create both a responsiv
 <img width="1440" alt="Screenshot 2023-06-09 at 9 37 48 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/741040e8-93fd-46c0-8be2-77a0421f861f">
 
 
+
+
+
+
+
+
+
 <img width="1440" alt="Screenshot 2023-06-09 at 9 38 14 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/4069b860-99ca-450f-823d-6c2dc8ee04da">
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="1440" alt="Screenshot 2023-06-09 at 9 38 22 AM" src="https://github.com/marcuswinbush/Anime-Api/assets/109448353/0fd68cf1-ec0f-4d82-bb44-16e089da1c93">
 
