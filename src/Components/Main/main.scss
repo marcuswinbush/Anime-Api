@@ -23,6 +23,7 @@
 .content-wrapper-divider {
    margin-top: 10px;
     border-top: 4px solid cadetblue;
+    width: 100%;
 }
 
 .card-carousel {
@@ -59,9 +60,8 @@
 
     .card-image {
         height: 265px;
-        width: 185px;
+       width: 167px;
         background: none;
-        object-fit: cover;
        
 
         
@@ -69,7 +69,29 @@
     }
 
   
+
+    @media screen and (max-width: 1079px) {
+        .card-div-scroller{
+            grid-template-columns: repeat(4, 1fr) ;
+        }
+    }
+
+
+    @media screen and (max-width: 876px) {
+        .card-div-scroller{
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+
+    @media screen and (max-width: 686px) {
+        .card-div-scroller{
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
 }
+
+
+
 
 .card-text h4 {
        
